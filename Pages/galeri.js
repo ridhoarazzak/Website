@@ -6,23 +6,23 @@ export default function Galeri() {
     {
       id: 1,
       title: "Air Terjun Tangsi",
-      location: "Sungai Pagu",
+      location: "Sungai Lambai",
       description: "Air Terjun Tangsi terkenal dengan aliran air jernih di tengah hutan tropis. Cocok untuk hiking dan piknik.",
-      image: "/images/galeri1.jpg",
+      image: "/public/public/SnapInsta.to_47346666_338955076688493_3135412711591770602_n.jpg",
     },
     {
       id: 2,
-      title: "Bukit Durian Tinggi",
+      title: "Gunung Kerinci",
       location: "Padang Aro",
       description: "Tempat populer untuk melihat sunrise dan sunset. Pemandangan sawah dan pegunungan yang memukau.",
-      image: "/images/galeri2.jpg",
+      image: "/public/SnapInsta.to_489771670_18379061317136841_6796868984899684999_n.jpg",
     },
     {
       id: 3,
-      title: "Danau Kembar",
-      location: "Muara Labuh",
-      description: "Danau alami dengan panorama hijau. Cocok untuk camping, memancing, atau piknik keluarga.",
-      image: "/images/galeri3.jpg",
+      title: "Tangsi 4",
+      location: "Sungai Lambai",
+      description: "Air Terjun alami dengan panorama hijau. Cocok untuk camping, memancing, atau piknik keluarga.",
+      image: "/public/SnapInsta.to_25018345_189227161656877_7222350600464236544_n.jpg",
     },
   ];
 
