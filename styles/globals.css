@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #F5F5DC; /* Cream */
+  color: #3B7A57; /* Green Leaf */
+}
