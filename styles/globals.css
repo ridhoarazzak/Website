@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Custom green-coffee body style */
 body {
   @apply bg-[#F5F5DC] text-[#3B7A57];
 }
